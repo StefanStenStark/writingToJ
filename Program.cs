@@ -7,7 +7,7 @@ class Program
     {
         if (args.Length == 0)
         {
-            Console.WriteLine("Tell me what you love with the command: dotnet run -ilove whatYouLove");
+            Console.WriteLine("Tell me what you love with the command: dotnet run -i_love whatYouLove");
             Console.WriteLine("To see what you love you can write the command: dotnet run -what_do_i_love");
             return;
         }
@@ -16,7 +16,7 @@ class Program
 
         switch (flag)
         {
-            case "-ilove":
+            case "-i_love":
                 string dataString = args[1];
                 SaveStringToJson(dataString);
                 Console.WriteLine("String saved successfully.");
