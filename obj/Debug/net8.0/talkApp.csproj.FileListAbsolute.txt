@@ -1,0 +1,17 @@
+/Users/salt-dev/talkApp/bin/Debug/net8.0/talkApp
+/Users/salt-dev/talkApp/bin/Debug/net8.0/talkApp.deps.json
+/Users/salt-dev/talkApp/bin/Debug/net8.0/talkApp.runtimeconfig.json
+/Users/salt-dev/talkApp/bin/Debug/net8.0/talkApp.dll
+/Users/salt-dev/talkApp/bin/Debug/net8.0/talkApp.pdb
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.AssemblyInfoInputs.cache
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.AssemblyInfo.cs
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.csproj.CoreCompileInputs.cache
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.dll
+/Users/salt-dev/talkApp/obj/Debug/net8.0/refint/talkApp.dll
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.pdb
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.genruntimeconfig.cache
+/Users/salt-dev/talkApp/obj/Debug/net8.0/ref/talkApp.dll
+/Users/salt-dev/talkApp/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.csproj.AssemblyReference.cache
+/Users/salt-dev/talkApp/obj/Debug/net8.0/talkApp.csproj.Up2Date

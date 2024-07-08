@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GW7Lzizd+2s=",
+  "success": true,
+  "projectFilePath": "/Users/salt-dev/talkApp/talkApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/salt-dev/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
